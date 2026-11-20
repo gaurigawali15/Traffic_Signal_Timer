@@ -36,55 +36,8 @@ When the timer for a particular signal expires, the system automatically transit
 - Power Supply
 - Connecting Wires
 
-## ✨ Key Features
 
-- Timer-based automated signal switching.
-- Sequential operation of traffic lights.
-- Simple and cost-effective implementation.
-- Demonstrates basic embedded systems and automation concepts.
-
-## 🌍 Applications
-
-- Traffic signal demonstrations.
-- Basic traffic management systems.
-- Smart city automation concepts.
-- Electronics and embedded systems learning.
-
-## 📂 Repository Structure
-
-```text
-Traffic_Signal_Timer/
-│
-├── Demo.gif
-├── Report.pdf
-├── Traffic_Signal_Timer.zip
-└── README.md
 ```
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/gaurigawali15/Traffic_Signal_Timer.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd Traffic_Signal_Timer
-   ```
-
-3. Download and extract `Traffic_Signal_Timer.zip` to access the project files.
-
-4. Refer to `Report.pdf` for the project documentation and implementation details.
-
-## 🔮 Future Enhancements
-
-- Implement adaptive traffic signal timing based on vehicle density.
-- Integrate sensors for real-time traffic monitoring.
-- Introduce emergency vehicle priority.
-- Explore IoT-based traffic monitoring and control.
 
 ## 👩‍💻 Author
 
@@ -94,5 +47,4 @@ Traffic_Signal_Timer/
 
 ---
 
-⭐ If you find this project interesting, consider giving the repository a star!
 
